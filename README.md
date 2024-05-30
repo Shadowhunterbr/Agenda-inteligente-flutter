@@ -18,9 +18,9 @@ A new Flutter project created with FlutLab - https://flutlab.io
 * flutter version 3.16 or above
 
 * Run Pub get in terminal
-'''bash
+```
 Flutter pub get
-'''
+```
 
 ## Getting Started
 
